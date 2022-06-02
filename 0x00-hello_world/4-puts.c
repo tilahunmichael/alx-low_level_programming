@@ -16,3 +16,4 @@ int main(void)
 	puts(displayed);
 	return (0);
 }
+
